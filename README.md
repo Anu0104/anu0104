@@ -1,6 +1,6 @@
 <h1 align="center">Hi Folks👋,I am glad to see that you have visited my profile!</h1>
 <img width="300" align="right" src="https://github.com/Anu0104/Repo_Images/raw/main/Repo_Image.gif">
-<h3 align="center">Hola Amigos 🙋‍♀️ I am Anushka Visapure and I am a self motivated and enthusiastic student pursuing Btech in Information Technology at Government College Of Engineering Karad . I greatly interested in Devops and Cloud Computing World.I love to learn the new technologies and like to integrate them 😊 My hobbies are Listening Music🎧,Photography📷,Travelling🚗 and I like to share my knowledge with the world🌍</h3>
+<h3 align="center">Hola Amigos 🙋‍♀️ I am Anushka Visapure and I am a self motivated and enthusiastic student pursuing Btech in Information Technology at Government College Of Engineering Karad . I greatly interested in Devops and Cloud Computing World.I love to learn the new technologies and like to integrate them 😊 My hobbies are Listening Music🎧 , Photography📷 , Travelling🚗 and I like to share my knowledge with the world🌍</h3>
 
 - 🌱 I’m currently learning **Devops Tools , AWS , GCP , ML , DL , Big Data , Python**
 
